@@ -17,6 +17,4 @@
 | `console.log(...)` en el código | Código de depuración olvidado en producción | Se eliminaron las tres líneas |
 | Función comentada `calcularAntiguo(...)` | Código muerto sin ninguna función | Se eliminó el bloque comentado |
 
-## Enlace al sitio publicado
 
-https://gorgeous-monstera-28674a.netlify.app
