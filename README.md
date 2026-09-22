@@ -1,1 +1,0 @@
-# Taller-integrador-individual-Cortes-1-y-2
