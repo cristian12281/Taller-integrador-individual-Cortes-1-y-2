@@ -19,4 +19,4 @@
 
 ## Enlace al sitio publicado
 
-_(pegue aquí la URL de Netlify una vez desplegado)_
+https://gorgeous-monstera-28674a.netlify.app
